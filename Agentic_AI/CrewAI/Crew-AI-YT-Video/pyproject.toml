@@ -1,0 +1,14 @@
+[project]
+name = "crew-ai-yt-video"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "crewai[tools]>=0.186.1",
+    "langchain-huggingface==0.3.0",
+    "python-dotenv>=1.2.1",
+    "sentence-transformers==2.6.1",
+    "youtube-transcript-api==0.6.1",
+    "yt-dlp==2023.11.14",
+]

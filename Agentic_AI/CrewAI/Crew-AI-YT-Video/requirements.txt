@@ -1,0 +1,8 @@
+crewai
+crewai[tools]
+python-dotenv
+youtube-transcript-api
+yt_dlp==2023.11.14 
+youtube-transcript-api==0.6.1
+sentence-transformers==2.6.1
+langchain-huggingface==0.3.0
